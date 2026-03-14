@@ -1,4 +1,4 @@
-# Arithmetic Logic Unit &nbsp; <img src="https://github.com/user-attachments/assets/52a60221-cf09-4f87-b8fd-c5ce991e7918" width="40" height="40" align="top" />
+# Simple Processor &nbsp; <img src="https://github.com/user-attachments/assets/52a60221-cf09-4f87-b8fd-c5ce991e7918" width="40" height="40" align="top" />
 
 An ALU architecture designed to perform various operations on two 8-bit inputs according to an opcode
  
